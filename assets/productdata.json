@@ -1,37 +1,54 @@
 [
          {
             "pId":101,
-            "pName":"Samsung Mobile S9",
-            "pPrice":19500,
+            "pName":"John Jacobs Computer Glasses",
+            "pPrice":1500,
             "pImage":"assets/products/p1.jpg",
             "pDate":"2022/02/21"
           },
+          
+
           {
             "pId":102,
-            "pName":"Samsung Mobile S8",
-            "pPrice":17500,
+            "pName":"John Jacobs Computer Glasses",
+            "pPrice":7500,
             "pImage":"assets/products/p2.jpg",
             "pDate":"2022/05/12"
           },
           {
             "pId":103,
-            "pName":"Samsung Mobile S7",
-            "pPrice":16500,
-            "pImage":"assets/products/p1.jpg",
+            "pName":"John Jacobs Computer Glasses",
+            "pPrice":1500,
+            "pImage":"assets/products/p.jpg",
             "pDate":"2021/09/25"
           },
           {
             "pId":104,
-            "pName":"Samsung Mobile S11",
-            "pPrice":22500,
-            "pImage":"assets/products/p1.jpg",
+            "pName":"John Jacobs Computer Glasses",
+            "pPrice":2500,
+            "pImage":"assets/products/p3.jpg",
             "pDate":"2022/09/11"
           },
           {
-            "pId":5,
-            "pName":"Samsung Mobile S11",
-            "pPrice":22500,
-            "pImage":"assets/products/p1.jpg",
+            "pId":105,
+            "pName":"John Jacobs Computer Glasses",
+            "pPrice":2500,
+            "pImage":"assets/products/p4.jpg",
+            "pDate":"2022/09/11"
+          },
+          {
+            "pId":106,
+            "pName":"John Jacobs Computer Glasses",
+            "pPrice":2200,
+            "pImage":"assets/products/p5.jpg",
+            "pDate":"2022/09/11"
+          },
+          {
+            "pId":107,
+            "pName":"John Jacobs Computer Glasses",
+            "pPrice":2500,
+            "pImage":"assets/products/p6.jpg",
             "pDate":"2022/09/11"
           }
+          
 ]
